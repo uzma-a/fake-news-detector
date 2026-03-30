@@ -1,0 +1,9 @@
+# .gitignore — project root mein
+backend/venv/
+backend/__pycache__/
+backend/model/__pycache__/
+frontend/node_modules/
+frontend/dist/
+*.pyc
+.env
+.env.local

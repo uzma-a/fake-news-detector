@@ -254,8 +254,7 @@ Returns model status, loaded model names, and accuracy metrics.
 
 ## 👩‍💻 Author
 
-Built by **Uzma** — for educational use and job portfolio  
-For educational purposes only. Always verify news with multiple credible sources.
+Built by **Uzma**  - For educational purposes only. Always verify news with multiple credible sources.
 
 ---
 

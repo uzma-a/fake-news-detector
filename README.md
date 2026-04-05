@@ -9,21 +9,6 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-98.05%25-brightgreen)
 ![Dataset](https://img.shields.io/badge/Dataset-26%2C673%20articles-orange)
 
----
-
-## 🌐 Live Demo
-> Coming soon after deployment on Vercel + Render
-
----
-
-## 📸 Screenshots
-
-| Fake News Detection | Model Comparison | Word Influence |
-|---|---|---|
-| Red verdict with 96% confidence | 3 models side-by-side | Animated influence bars |
-
----
-
 ## 🎯 What It Does
 
 TruthLens analyzes a news article and returns:
